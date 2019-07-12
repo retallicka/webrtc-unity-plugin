@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "847705964679",
+    "firebase_url": "https://fir-rtc-cf53f.firebaseio.com",
+    "project_id": "fir-rtc-cf53f",
+    "storage_bucket": "fir-rtc-cf53f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847705964679:android:e95d91f806c542ed",
+        "android_client_info": {
+          "package_name": "com.breach.webrtcvideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847705964679-34edcf56i503t2q9ib6j2k9sei0rpth8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5pVnW1eW1n5R26JIAirfz72siEsJpWtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847705964679-34edcf56i503t2q9ib6j2k9sei0rpth8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
